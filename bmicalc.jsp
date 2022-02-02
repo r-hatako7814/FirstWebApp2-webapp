@@ -11,7 +11,7 @@
 <title>BMIの計算結果</title>
 </head>
 <body>
-<h1>あなたのBMIの計算結果</h1>
+<h1>あなたのBMIの計算結果:</h1>
 
 <%
      double height,weight,bmi;
